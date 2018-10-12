@@ -1,0 +1,462 @@
+Go.	ទៅ។
+Stop!	ឈប់!
+Cheers!	ជល់មួយ !
+Go now.	ទៅឥឡូវហ្នឹង។
+Listen.	ចូរស្ដាប់។
+Listen.	សូមស្ដាប់។
+No way!	គ្មានគំនិតទេ !
+No way!	ចប់ហើយ !
+No way!	អត់មានទេ !
+No way!	គ្មានយោបល់ទេ !
+No way!	គ្តៀនគំនិត !
+No way!	កប់យោបល់ !
+Get out!	ចេញទៅ !
+Go away!	ចេញទៅ !
+Go away!	ទៅក្រៅទៅ !
+Go away!	ទៅទៅ !
+Go away!	ទៅឱ្យឆ្ងាយ !
+Go away.	ទៅឱ្យឆ្ងាយ ។
+Go away.	ចាកចេញឆ្ងាយ ។
+Go away.	ឃ្លាតឆ្ងាយហើយ ។
+Go away.	ទៅបាត់ហើយ ។
+Go away.	ចេញឆ្ងាយហើយ ។
+Go home.	ទៅផ្ទះ។
+Goodbye!	លាហើយ!
+Goodbye!	ជំរាបលា!
+Help me.	ជួយខ្ញុំផង ។
+Shut up!	ស្ងាត់ !
+Shut up!	ស្ងាត់ភ្លាម !
+Welcome.	សូមស្វាគមន៏ ។
+Don't go.	កុំទៅ។
+Hurry up.	ប្រញាប់ឡើង ។
+Hurry up.	លឿនឡើង ។
+Hurry up.	ឱ្យលឿន ។
+I can go.	ខ្ញុំទៅបាន។
+I'm fine.	ខ្ញុំសុខសប្បាយ ។
+Let's go!	តោះ!
+Let's go!	តោះទៅ !
+Let's go!	តោះយើង !
+Let's go!	តោះយើងទៅ !
+Let's go.	តោះ។
+What fun!	សប្បាយណាស់ !
+What fun!	Sɑbaay-ə nəh!
+Follow me.	មកតាមខ្ញុំ ។
+I am sick.	ខ្ញុំឈឺ ។
+I give up.	ខ្ញុំចុះចាញ់ហើយ។
+I'm sorry.	សុំទោស ។
+I'm sorry.	ខ្ញុំសុំទោស ។
+I'm sorry.	សុំទោសណា ។
+I'm tired.	ខ្ញុំ គឺ ហត់ ។
+I'm tired.	ខ្ញុំអស់កម្លាំង ។
+I'm tired.	អស់កម្លាំងណាស់ ។
+I'm tired.	ហត់ដល់ហើយ ។
+Of course!	ច្បាស់ជាអញ្ចឹងហើយ!
+We can go.	យើងអាចទៅបាន។
+Go see Tom.	ទៅជួប ថម។
+I ran home.	ខ្ញុំរត់ទៅផ្ទះ ។
+I'm hungry!	ខ្ញុំឃ្លាន !
+I'm hungry!	ខ្ញុំហេវ !
+I'm hungry!	ឃ្លានបាយ !
+I'm hungry!	ហេវបាយ !
+Is that so?	អញ្ចឹងមែន ?
+Is that so?	មែនអេ៎ ?
+No problem.	អត់បញ្ហា។
+Was it fun?	សប្បាយអត់ ?
+What is it?	អីគេហ្នឹង ?
+Don't worry.	កុំបារម្ភអី ។
+Don't worry.	កុំព្រួយណា៎ ។
+Don't worry.	កុំភ័យអី ។
+Go help Tom.	ទៅជួយ ថម។
+Go meet Tom.	ទៅជួប ថម។
+Go tell Tom.	ទៅប្រាប់ ថម។
+Go that way.	ទៅខាងនោះ។
+Go with Tom.	ទៅជាមួយ ថម។
+Help me out.	ជួយខ្ញុំផង ។
+How are you?	សុខសប្បាយអត់ ?
+I eat bread.	ខ្ញុំញ៉ាំនំប៉័ង។
+I have time.	ខ្ញុំមានពេល ។
+I like cats.	ខ្ញុំចូលចិត្តឆ្មា ។
+I love cats.	ខ្ញុំស្រលាញ់ឆ្មា ។
+I thank you.	ខ្ញុំសូមអរគុណដល់អ្នក ។
+I'm a woman.	ខ្ញុំគឺជាមនុស្សស្រី ។
+I'm thirsty.	ខ្ញុំស្រេកទឺក ។
+I'm thirsty.	ខ្ញុំឃ្លានទឹក ។
+OK. I agree.	បាទ! យល់ព្រម ។
+OK. I agree.	ចា៎! យល់ព្រម ។
+Where is it?	តើនៅកន្លែងណា ?
+Who are you?	តើអ្នកជានណា?
+Are you sure?	តើអ្នកប្រាកដហេ៎ ?
+Are you sure?	តើប្រាកដ ?
+Are you sure?	តើអ្នកច្បាស់ហេ៎ ?
+Find the cat.	រកឆ្មាមើល ។
+Go to school.	ទៅសាលារៀន។
+Good evening.	សាយ័ណ្ហសួស្ដី។
+I am a woman.	ខ្ញុំគឺជាមនុស្សស្រី ។
+I don't know.	ខ្ញុំ អត់ដឹង ។
+I don't know.	ខ្ញុំ មិនដឹងអីទេ ។
+I understand.	យល់ហើយ ។
+I want money.	ខ្ញុំចង់បានលុយ ។
+I want to go.	ខ្ញុំចង់ទៅ។
+This is food.	នេះគឺជា អាហារ ។
+Tom was home.	ថម នៅផ្ទះ ។
+You go first.	ទៅមុនទៅ ។
+You're wrong.	អ្នកខុសហើយ ។
+Are you happy?	តើអ្នកសប្បាយចិត្តទេ ?
+Are you happy?	តើសប្បាយទេ ?
+Are you happy?	សប្បាយអត់ ?
+Are you tired?	តើអ្នកហត់ឬទេ ?
+Are you tired?	តើអ្នកអស់កម្លាំង ?
+Are you tired?	ហត់អត់ ?
+Come back, OK?	ត្រលប់មកវិញណា !
+Go over there.	ទៅទីនោះ។
+I can't sleep.	ខ្ញុំ គេងអត់លក់ ។
+I've got time.	ខ្ញុំមានពេល ។
+Is there time?	តើមានពេលទេ ?
+It hurts here.	ខ្ញុំឈឺកន្លែងនេះ ។
+Mary is a fox.	ម៉ារី សិចស៊ីណាស់ ។
+Tom went home.	ថម ទៅផ្ទះ ។
+We're special.	យើងគឺពិសេស ។
+Where are you?	តើអ្នកនៅកន្លែងណា ?
+Where are you?	តើនៅកន្លែងណា ?
+Where are you?	តើឯងនៅណា ?
+Where are you?	តើនៅណាហ្នឹង ?
+Where are you?	នៅណាហ្នឹង ?
+You are wrong.	អ្នកខុសហើយ ។
+Are you hungry?	តើអ្នកឃ្លានទេ ?
+Are you hungry?	ឃ្លានអត់ ?
+Can I help you?	តើខ្ញុំអាចជួយអ្នកបានអត់ ?
+Can I help you?	តើខ្ញុំអាចជួយអីបានទេ ?
+Can I help you?	ខ្ញុំជួយអីបានអត់ ?
+Do you love me?	តើអ្នកស្រលាញ់ខ្ញុំទេ ?
+Do you love me?	តើអូនស្រលាញ់បងហេ៎ ?
+Do you love me?	តើបងស្រលាញ់អូនអត់ ?
+Go get changed.	ទៅផ្លាស់ខោអាវ។
+Good afternoon.	ទិវាសួស្ដី ។
+Happy New Year!	សួស្តី ឆ្នាំថ្មី !
+Happy New Year!	រីករាយ ឆ្នាំថ្មី !
+Happy New Year!	អបអរសាទរ ចូលឆ្នាំថ្មី !
+I am in London.	ខ្ញុំនៅទីក្រុងឡុងដ៍ ។
+I want to live.	ខ្ញុំចង់រស់។
+I'd rather die.	ខ្ញុំចង់ស្លាប់ជាង។
+I'm exercising.	ខ្ញុំ ហាត់ប្រាណ ។
+It smells good!	ក្លិនវាគួរឱ្យឆ្ងាញ់ !
+It smells good!	ធំក្លិនគួរឱ្យឆ្ងាញ់ !
+It smells good!	ហិតក្លិនគួរឱ្យឆ្ងាញ់ !
+It's up to you.	តាមចិត្តអ្នក។
+Leave me alone!	ទុកខ្ញុំនៅម្នាក់ឯងបានហើយ !
+Leave me alone!	ឱ្យខ្ញុំនៅម្នាក់់ឯង !
+Leave me alone!	ទុកខ្ញុំនៅស្ងាត់សិន !
+My tooth hurts.	ខ្ញុំឈឺធ្មេញ ។
+She loves cats.	នាងស្រលាញ់ឆ្មា ។
+Are you married?	តើអ្នករៀបការហើយ ?
+Are you married?	តើលោករៀបការហើយឬនៅ ?
+Are you married?	ឯងរៀបការហើយ ?
+Cats catch mice.	ឆ្មាចាប់កណ្ដុរ ។
+Do you trust me?	តើអ្នកជឿលើខ្ញុំទេ ?
+He sounds angry.	គាត់ហាក់ដូចជាខឹង។
+How is it going?	សុខសប្បាយអត់ ?
+How old are you?	តើអ្នកមានអាយុប៉ុន្មាន ?
+How old are you?	តើមានអាយុប៉ុន្មាន ?
+How old are you?	តើអាយុប៉ុន្មានទៅ ?
+How rude of you!	ឈ្លើយណាស់ !
+I have to sleep.	ខ្ញុំ ត្រូវការដេក ។
+I have two cats.	ខ្ញុំមានឆ្មាពីរ ។
+I love swimming.	ខ្ញុំ ស្រលាញ់កីឡាហែលទឹក ។
+It doesn't hurt.	អត់ឈឺ។
+My book is here.	សៀវភៅខ្ញុំនៅទីនេះ។
+She adores cats.	នាងស្រលាញ់ឆ្មា ។
+There's no time.	អត់មានពេល ។
+This dog is big.	ឆ្កែនេះ គឺធំ ។
+Wash the dishes.	លាងចាន ។
+What time is it?	តើវាម៉ោងប៉ុន្មានហើយ ?
+What's her name?	តើគាត់ឈ្មោះអី?
+What's his name?	តើគាត់ឈ្មោះអី?
+Do you live here?	តើអ្នករស់នៅទីនេះ ?
+Do you live here?	តើលោករស់នៅនេះ ?
+Do you live here?	រស់នៅទីនេះមែន ?
+He died suddenly.	គាត់ស្លាប់ដោយចៃដន្យ ។
+How tall you are!	អ្នកខ្ពស់ណាស់ !
+I am eating rice.	ខ្ញុំកំពុងញ៉ាំបាយ ។
+I'm not a doctor.	ខ្ញុំមិនមែនជា គ្រូពេទ្យទេ ។
+It's worth a try.	សាកមើលក៏បានដែរ ។
+It's worth a try.	សាកមើលគ្រាន់បើជាង ។
+Let's play cards.	តោះ យើងលេងបៀរ ។
+She smiled sadly.	នាងញញឹមលាយលំនិងទុក្ខដែរ ។
+There's no water.	អត់មានទឹក។
+Tom is with Mary.	ថម នៅជាមួយ ម៉ារី ។
+Tom loves soccer.	ថម ស្រលាញ់ កីឡាបាល់ទាត់ ។
+What did you say?	ថាម៉េច?
+What do you want?	តើអ្នកចង់បានអ្វី ?
+What do you want?	តើចង់បានអីហ្នឹង ?
+What do you want?	តើឯងចង់បានអី ?
+What do you want?	ចង់បានអី ?
+What is his name?	តើគាត់ឈ្មោះអី?
+What's your name?	តើអ្នកឈ្មោះអ្វី?
+What's your name?	អ្នកឈ្មោះអី?
+What's your name?	តើគាត់ឈ្មោះអី?
+What's your name?	តើលោកឈ្មោះអី ?
+Don't you like it?	អត់ចូលចិត្តវាទេ?
+Her eyes are blue.	ភ្នែករបស់នាងពណ៌ខៀវ ។
+I don't want meat.	ខ្ញុំមិនចង់បានសាច់ទេ ។
+I have a headache.	ខ្ញុំឈឺឡាតែត ។
+I have a headache.	ខ្ញុំឈឺក្បាល ។
+I have a question.	ខ្ញុំមានសំនួរ។
+I have a question.	ខ្ញុំមានសំណួរ។
+I have a question.	ខ្ញុំមានសំនួរមួយ។
+I have a question.	ខ្ញុំមានសំណួរមួយ។
+I know a shortcut.	ខ្ញុំស្គាល់ផ្លូវកាត់ ។
+It's not worth it.	វាមិនលើគ្នាទេ ។
+Please wait a bit.	សូមចាំបន្តិច ។
+Thanks for coming.	អរគុណ ដែលបានមកលេង ។
+The cup was empty.	ពែងនេះគឺទទេស្អាត។
+Tom returned home.	ថម ត្រឡប់ទៅផ្ទះវិញ ។
+What do you think?	តើឯងគិតយ៉ាងណា ?
+What is your name?	តើគាត់ឈ្មោះអី?
+What is your name?	តើលោកឈ្មោះអី ?
+What's the matter?	មានរឿងអី?
+Where do you live?	តើអ្នករស់នៅឯណា ?
+Where do you live?	តើលោករស់នៅឯណា ?
+Where do you live?	តើអ្នករស់កន្លែងណា ?
+Where is the food?	ម្ហូប នៅឯណា ?
+Did she sleep well?	តើនាងគេងបានល្អហេ ?
+Does it taste okay?	តើរស់ជាតិយ៉ាងម៉េចដែរ?
+I don't have a cat.	ខ្ញុំអត់មានឆ្មាទេ។
+I don't have a cat.	ខ្ញុំអត់មានឆ្មា។
+I don't understand.	ខ្ញុំ មិនយល់ទេ ។
+I don't understand.	អត់យល់ ។
+I have a toothache.	ខ្ញុំឈឺធ្មេញ ។
+I like Korean food.	ខ្ញុំចូលចិត្ត ម្ហូបកូរ៉េ ។
+I need to be alone.	ខ្ញុំត្រូវការនៅម្នាក់ឯង ។
+I want to be alone!	ខ្ញុំចង់នៅម្នាក់ឯង !
+I'm sorry I'm late.	សុំទោសដែលខ្ញុំមកយឺត ។
+It's not important.	អត់សំខាន់ទេ។
+It's not important.	មិនសំខាន់ទេ។
+My mother is angry.	ម៉ាក់ខ្ញុំខឹង។
+There's no problem.	អត់បញ្ហា។
+Tom likes swimming.	ថម ចូលចិត្តហែលទឹក។
+What's the problem?	មានបញ្ហាអី?
+Where are you from?	តើអ្នកជនជាតិអ្វី?
+Where do I go then?	អញ្ចឹងខ្ញុំទៅណា?
+Why are you crying?	តើហេតុអី្វអ្នកយំ ?
+Why are you crying?	តើហេតុអីអូនយំ ?
+Why are you crying?	តើមូលហេតុអីជាអ្នកយំ ?
+Why are you crying?	ហេតុអីបានជាអូនយំ ?
+Why are you crying?	ហេតុអីបានយំ ?
+You like elephants.	អ្នកចូលចិត្តដំរី ។
+Do you like bowling?	អ្នកចូលចិត្តលេងបោះប៊ូលទេ?
+Don't do that again.	កុំធ្វើបែបហ្នឹងទៀត ។
+I do not have a cat.	ខ្ញុំអត់មានឆ្មាទេ។
+I do not have a cat.	ខ្ញុំអត់មានឆ្មា។
+I have a dictionary.	ខ្ញុំមានវចនានុក្រម។
+I know you're lying.	ខ្ញុំដឹងថាអ្នកកហុក ។
+I will be back soon.	ខ្ញុំ នឹងមកវិញលឿន ។
+I will be back soon.	ខ្ញុំ នឹងមកវិញឆាប់ៗនេះ ។
+I will be back soon.	ខ្ញុំ នឹងត្រលប់មកឆាប់ៗនេះ ។
+I'm a light sleeper.	ខ្ញុំគឺជាអ្នកគេងល្វាស ។
+I'm fully recovered.	ខ្ញុំបានជាវិញទាំងស្រុង។
+I've got a question.	ខ្ញុំមានសំនួរ។
+I've got a question.	ខ្ញុំមានសំណួរ។
+I've got a question.	ខ្ញុំមានសំនួរមួយ។
+I've got a question.	ខ្ញុំមានសំណួរមួយ។
+Kids like ice cream.	ក្មេងៗ ចូលចិត្តការ៉េម ។
+Let's start working.	តោះយើងចាប់ផ្តើមធ្វើការ ។
+The law was changed.	ច្បាប់ត្រូវបានប្តូរ។
+There is no problem.	អត់បញ្ហា។
+This was my mistake.	នេះជាកំហុសរបស់ខ្ញុំ ។
+This was my mistake.	Anih ciə kɑmhoh bɑh ɲom.
+Tom drinks too much.	ថម ផឹកស្រាច្រើនពេក ។
+Tom drinks too much.	Tom pək sea cəən pek.
+What are you saying?	តើនិយាយអីហ្នឹង ?
+What are you saying?	តើលោកកំពុងនិយាយអី ?
+What smells so good?	តើឈ្ងុយអីគេហ្នឹង ?
+Where are you going?	តើលោកត្រូវការទៅណា ?
+Where are you going?	តើឯងទៅណាហ្នឹង ?
+Where are you going?	តើអ្នកទៅកន្លែងណា ?
+Where are you going?	តើលោកត្រូវទៅណា ?
+Where is the toilet?	បង្គន់នៅណា?
+Your friend is here.	ពួកម៉ាករបស់អ្នកនៅទីនេះ។
+Are you volunteering?	តើអ្នកកំពុងស្ម័គ្រចិត្តឬ?
+Do you speak English?	តើអ្នកចេះនិយាយភាសាអង់គ្លេសទេ ?
+I've got a toothache.	ខ្ញុំឈឺធ្មេញ ។
+It doesn't bother me.	ខ្ញុំមិនប្រកាន់ទេ ។
+It is already eleven.	ម៉ោងដប់មួយហើយ។
+It was hot yesterday.	ម្សិលមិញក្តៅណាស់។
+Please wait a moment.	សូមចាំបន្តិច ។
+She has a good heart.	នាងមានចិត្តល្អ។
+Thank you for coming.	អរគុណ ដែលបានមកលេង ។
+The car turned right.	ឡានបត់ស្ដាំ ។
+Tom is annoying Mary.	ថម កំពុងរំខាន ម៉ារី ។
+Tom needs some sleep.	ថម ត្រូវការពេលគេងបន្តិច ។
+Where is the problem?	បញ្ហានៅណា?
+You aren't my mother.	អ្នកមិនមែនជាម្ដាយខ្ញុំទេ ។
+Do not be so critical.	កុំរិះគន់គេពេក ។
+Everyone loves sports.	មនុស្សទាំងអស់សុទ្ធតែ ស្រលាញ់ កីឡា ។
+He will come tomorrow.	គាត់មកនៅថ្ងៃស្អែក ។
+He will come tomorrow.	ថ្ងៃស្អែក គាត់នឹងមោ ។
+How long did you stay?	តើអ្នកបានស្នាក់នៅរយៈពេលប៉ុន្មាន ?
+I usually get up at 8.	ជាធម្មតាខ្ញុំក្រោកពីគេងនៅម៉ោង ៨ ។
+I want to go with you.	ខ្ញុំចង់ទៅជាមួយអ្នក។
+He's probably sleeping.	គាត់ ប្រហែលកំពុងដេក ។
+His handwriting is bad.	អក្សរសរសេរដៃរបស់គាត់អាក្រក់។
+I am a college student.	ខ្ញុំគឺនិស្សិត។
+I don't have any money.	ខ្ញុំមិនមានលុយទេ ។
+I don't have any money.	ខ្ញុំអត់លុយទេ ។
+I don't speak Japanese.	ខ្ញុំអត់និយាយភាសាជប៉ុនទេ។
+I promise to work hard.	ខ្ញុំសន្យាថាខំធ្វើការ ។
+I want to learn karate.	ខ្ញុំ ចង់រៀនក្បាច់គុន ការ៉ាតេដូរ ។
+Tom can sleep anywhere.	ថម អាចដេកកន្លែងណាក៏បាន ។
+Tom has three children.	ថម មានកូនបីនាក់។
+Tom is a heavy sleeper.	ថម គឺជាអ្នកគេងស្កប់ស្កល់ ។
+I don't have much money.	ខ្ញុំមិនមានលុយច្រើនទេ ។
+I need to be left alone.	ខ្ញុំត្រូវការនៅម្នាក់ឯង ។
+She is already sleeping.	នាង កំពុងគេងហើយ ។
+What do you want to eat?	តើអូនចង់ញ៉ាំអី ?
+Do we need anything else?	តើយើងត្រូវការអីទៀតទេ ?
+He speaks five languages.	Goat yiəy peam pʰiəsaa.
+He speaks five languages.	គាត់និយាយប្រាំភាសា ។
+How could you think that?	តើអ្នកអាចគិតថាយ៉ាងម៉េចដែរ ?
+I know that you're lying.	ខ្ញុំដឹងថាអ្នកកហុក ។
+The book is on the table.	សៀវភៅ គឺនៅលើតុ ។
+The book is on the table.	សៀវភៅនៅលើតុ ។
+The book is on the table.	សៀវភៅទុកលើតុ ។
+The room has two windows.	បន្ទប់នេះមានបង្អួចពីរ ។
+Tom attended the wedding.	ថម ញ៉ាំការ ។
+Tom felt a little guilty.	ថមមានទោសតិច។
+Which sports do you like?	តើកីឡាអីដែលឯងចូលចិត្ត ?
+He speaks French fluently.	គាត់និយាយបារាំងញាប់ ។
+I don't understand at all.	ខ្ញុំ អត់យល់សោះ ។
+I heard something outside.	ខ្ញុំបានឮសំឡេងអ្វីមួយនៅខាងក្រៅ។
+I usually get up at eight.	ជាធម្មតាខ្ញុំក្រោកពីគេងនៅម៉ោង ៨ ។
+I'm sure you're very busy.	ខ្ញុំប្រាកដថា អ្នករវល់ណាស់ ។
+Is it OK if I go in jeans?	តើវាមិនអីទេបើខ្ញុំទៅដោយស្លៀកខោកាប៊ូយ?
+The king abused his power.	ស្តេចលោភនឹងអំណាច ។
+The matter is all settled.	រឿងនេះត្រូវបានផ្សះផ្សារួចហើយ ។
+Tom had Mary wash the car.	ថម ឱ្យ ម៉ារី លាងឡាន។
+Tom put on his sunglasses.	ថម ពាក់វ៉ែនតារបស់គាត់ ។
+He is very a dangerous man.	គាត់ជាបុរសដែលគួរឲ្យគ្រោះថ្នាក់ណាស់ ។
+He speaks Chinese fluently.	គាត់និយាយចិនញាប់ ។
+He speaks English fluently.	គាត់និយាយអង់គ្លេសញាប់ ។
+I think Tom killed himself.	ខ្ញុំគិតថា ថម សម្លាប់ខ្លួន ។
+It's late already. Go home.	ឥឡូវល្ងាចហើយ ទៅទះសិនចុះ ។
+What are you talking about?	តើអ្នកកំពុងនិយាយអំពីអ្វី ?
+What are you talking about?	និយាយរឿងអី ?
+He may be on the next train.	ប្រហែលជាគាត់ជិះរថភ្លើងជើងក្រោយ ។
+I think you need to see him.	ខ្ញុំគិតថាអ្នកត្រូវជួបគាត់។
+Today we have a lot of food.	ថ្ងៃនេះយើង មានម្ហូបច្រើន។
+Tom wants to eat fried rice.	ថម ចង់ញ៉ាំបាយឆា ។
+What more could one ask for?	យើងត្រូវការអីទៀត ម៉េច ?
+What sport do you like best?	តើកីឡាអីដែលឯងចូលចិត្ត ?
+Do you want something to eat?	ចង់ញ៉ាំអីអត់ ?
+Don't forget to bring it, OK?	កុំភ្លេចយកមកផងណា !
+I don't want you to kill Tom.	ខ្ញុំអត់ចង់ឱ្យអ្នកសម្លាប់ ថម ទេ ។​
+I'm very disappointed in you.	ខ្ញុំខកចិត្តអ្នកណាស់ ។
+The king crushed his enemies.	ស្តេចផ្ចាញ់នឹងសត្រូវ ។
+The paper is under the table.	ក្រដាសនៅក្រោមតុ ។
+There is a full moon tonight.	យប់នេះមានព្រះច័ន្ទរះពេញណា ។
+"Thank you." "You're welcome."	«អរគុណ» «អត់អីអេ៎»
+I don't have any money at all.	ខ្ញុំអត់មានលុយសោះ ។
+I don't know any martial arts.	ខ្ញុំ អត់ចេះក្បាច់គុនអីទេ ។
+Is it you who'll buy the food?	តើឯងជាអ្នកទិញម្ហូប ?
+She is married to a foreigner.	នាងបានរៀបការជាមួយជនបរទេស។
+She is married to an American.	នាងបានរៀបការជាមួយជនជាតិអាមេរិក។
+The king governed the country.	ស្តេចបានគ្រប់គ្រងប្រទេស។
+We all know that you're angry.	យើងទាំងអស់ដឹងហើយថា ឯងខឹង ។
+English is spoken in Singapore.	ភាសាអង់គ្លេសត្រូវបាននិយាយនៅប្រទេសសិង្ហបុរី។
+I didn't want to humiliate Tom.	ខ្ញុំមិនចង់ធ្វើឱ្យ ថម អាម៉ាស់មុខទេ។
+I didn't want to humiliate Tom.	ខ្ញុំមិនមានបំណង ធ្វើឱ្យ ថមអាម៉ាស់មុខទេ។
+Please do not try this at home.	កុំសាកល្បងធ្វើបែបនេះនៅផ្ទះ ។
+The children are already tired.	ក្មេងៗ គឺអស់កំលាំងហើយ ។
+Tom fell off of his motorcycle.	ថម ដួលម៉ូតូ ។
+We'll share our food with them.	យើងចែក ម្ហូបទៅពួកគេ ។
+Would you come with me, please?	ទៅជាមួយខ្ញុំបានទេ?
+You have to go to the hospital.	អ្នកត្រូវទៅមន្ទីរពេទ្យ។
+Do you know who wrote this book?	តើអ្នកដឹងថានរណាបាននិពន្ធសៀភៅនេះ?
+My older brother has a mustache.	បងញុំមានពុកមាត់ ។
+The company employs 500 workers.	ក្រុមហ៊ុនជួលបុគ្គលិក ៥០០ នាក់ ។
+The company employs 500 workers.	Kɑmhun cuul mnuh peam hɔɔy neak.
+They're preparing a meal for us.	ពួកគេរៀបចំបាយទឹកសំរាប់យើង ។
+Tom thought that was a bad idea.	ថម គិតថា នោះគឺជាគំនិតដ៏អាក្រក់ ។
+I love you more than you love me.	ខ្ញុំស្រលាញ់អ្នកខ្លាំងជាងអ្នកស្រលាញ់ខ្ញុំ។
+I only speak a little Vietnamese.	ខ្ញុំនិយាយភាសាវៀតណាមបានតែតិចតួចប៉ុណ្ណោះ ។
+The lake is about 25 meters deep.	បឹងនេះមានជំរៅប្រហែល 25 ម៉ែត្រ។
+This is a difficult math problem.	មួយនេះគឺជាចំណោតនៃគណិតវិទ្យាដ៏ពិបាក ។
+We just ate sushi and drank beer.	ពួកយើងទើបតែញ៉ាំស៊ូស៊ី និងផឹកស្រាបៀរ។
+You may choose any book you like.	អ្នកអាចជ្រើសរើសសៀវភៅមួយណាដែលអ្នកចូលចិត្តបាន។
+Do you want me to get rid of this?	តើអ្នកចង់ឱ្យខ្ញុំហ្នឹងបោះចោលអ្វីមួយនេះឬ?
+Don't worry about making mistakes.	កុំព្រួយបារម្ភពីការធ្វេីកំហុស។
+I usually get up at eight o'clock.	ជាធម្មតាខ្ញុំក្រោកពីគេងនៅម៉ោង ៨ ។
+Our class has forty-five students.	ថ្នាក់យើង មានសិស្ស សែសិបប្រាំនាក់ ។
+I think it's somewhere around here.	ខ្ញុំគិតថាវានៅកន្លែងណាមួយក្បែរៗនេះ។
+That child caused a lot of trouble.	កូនគ្មេងនោះបានបង្ករបញ្ហាច្រើន។
+Tom arrived at the party with Mary.	ថម មកដល់ពិធីជប់លៀងជាមួយ ម៉ារី ។
+Tom isn't worried about his grades.	ថម អត់បារម្ភរឿងចំណាត់ថ្នាក់គាត់ទេ។
+Tom isn't worried about his grades.	ថម អត់ខ្វល់អំពីចំណាត់ថ្នាក់គាត់ទេ។
+I thought I heard something outside.	ខ្ញុំបានគិតថា ខ្ញុំបានឮសំឡេងអ្វីមួយនៅខាងក្រៅ។
+This food doesn't taste good at all.	ម្ហូបនេះ មិនឆ្ងាញ់សោះ ។
+We were certain of winning the game.	យើងបានប្រាកដថា យើងនឹងឈ្នះល្បែងនេះ។
+You may bring whoever wants to come.	នរណាចង់ម៉ោ នាំម៉ោក៏បានដែរ ។
+Eat more, or you won't gain strength.	ញ៉ាំឱ្យច្រើន បើមិនអញ្ចឹង អ្នកអត់មានកំលាំងទេ ។
+I don't have anything to give to you.	ខ្ញុំគ្មានអ្វីឱ្យអ្នកទេ ។
+I don't know anything about his past.	ខ្ញុំអត់ដឹងអីទាំងអស់អំពីរឿងអតីតកាលរបស់គាត់ ។
+I don't know anything about his past.	ខ្ញុំអត់ដឹងអីផងអំពីអតីតកាលរបស់គាត់ ។
+She stood looking out toward the sea.	នាងបានកំពុងឈរសំឡឹងទៅកាន់សមុទ្រ។
+When we made fun of her, she blushed.	នៅពេលដែលយើងបង្អាប់លេងដាក់នាង មុខនាងឡើងក្រហម ។
+I'm sorry I didn't come by last night.	សុំទោសដែលអត់បានមកយប់មិញ។
+Tom ate the stew right out of the pot.	ថម ញុាំសម្លក្នុងឆ្នាំង!
+You're not supposed to eat on the job.	អ្នកមិនគួរញ៉ាំនៅពេលធ្វើការទេ ។
+Atoms cannot be seen with your own eye.	បរិមាណូមិនអាចមើលឃើញដោយភ្នែកទទេបានទេ ។
+She gave birth to a daughter yesterday.	ម្សិលមិញ នាងបង្កើតបានកូនស្រីម្នាក់ ។
+What is the difference between A and B?	តើ A និង B ខុសគ្នាយ៉ាងណា ?
+I can read German, but I can't speak it.	ខ្ញុំចេះអានអាល្លឺម៉ង់ ប៉ុន្តែខ្ញុំមិនចេះនិយាយវាទេ ។
+My credit card was stolen on the subway.	កាតឥណទានខ្ញុំត្រូវបានគេលួចនៅរថភ្លើងក្រោមដី ។
+This book is easy enough for me to read.	សៀវភៅនេះ ត្រូវនឹងខ្ញុំស្រួលអាន ។
+Tom often forgets to use his turn signal.	ថម គាត់តែងតែភ្លេចភ្លើងសីញ៉ូ។
+He was a very smart lawyer and politician.	គាត់ជាមេធាវីហើយអ្នកនយោបាយឆ្លាតខ្លាំងណាស់។
+Last night, we watched television together.	យប់មិញ មើលទូរទស្សន៍ជាមួយគា្ន ។
+Newspapers lay scattered all over the floor.	កាសែតបានដាក់ដោយគ្មានសណ្តាប់ធ្នាប់ពាសពេញកំរាល ។
+I was told that you might be able to help me.	មានគេប្រាប់ខ្ញុំថា អ្នកអាចជួយខ្ញុំបាន។
+Tom told me he doesn't want to work with you.	ថម បានប្រាប់ខ្ញុំថា គាត់មិនចង់ធ្វើការរួមគ្នាជាមួយអ្នកទេ!
+I like to think I know what I'm talking about.	ខ្ញុំចង់គិតថា ខ្ញុំដឹងអ្វីដែល ខ្ញុំនិយាយ ។
+This cake contains flour, milk, eggs and sugar.	នំខេកនេះមានដាក់ម្សៅ ទឹកដោះគោ ពងមាន់ និង ស្ករ។
+You still have a lot to learn about relationships.	អ្នកត្រូវការរៀនឲ្យច្រើនបន្ថែមទៀតស្តីអំពីសម្ព័ន្ធភាព។
+Out of twenty students, only one has read the book.	ក្នុងនិស្សិតម្ភៃនាក់ តែម្នាក់បានអានសៀវភៅនោះ។
+Do unto others as you would have others do unto you.	ចូរអ្នកធ្វើលើគេ ដូចដែលអ្នកចង់ឱ្យអ្នកដទៃធ្វើមកលើអ្នកវិញដូច្នេះដែរ ។
+He is studying English, but he is also studying German.	គាត់រៀនភាសាអង់គ្លេស ប៉ុន្តែគាត់ក៏រៀនភាសាអាល្លឺម៉ង់ដែរ ។
+What have you done with my pen? It was here a minute ago.	តើអ្នកមានយកប៊ិចខ្ញុំទេ? ព្រោះអីម៉ិញវានៅទីនេះតើ!
+What have you done with my pen? It was here a minute ago.	តើអ្នកមានយកប៊ិចខ្ញុំទេ? ព្រោះអីម៉ិញវានៅទីនេះតើ។
+Burj Khalifa is currently the tallest skyscraper in the world.	បច្ចុប្បន្ននេះ បឹច ខាលីហ្វា គឺជាអគារដែលខ្ពស់ជាងគេនៅលើពិភពលោក ។
+I thought I told you that you should get to the concert early.	ខ្ញុំគិតថា ខ្ញុំបានប្រាប់អ្នកហើយ គួរតែទៅកន្លែងប្រគំតន្ត្រីឲ្យបានឆាប់ ។
+I just want to be able to visit my children whenever I want to.	ខ្ញុំគ្រាន់តែចង់ទៅលេងកូនខ្ញុំតាមចិត្តខ្ញុំ ។
+He won't be able to escape from there without a miracle, will he?	គាត់មិនអាចគេចពីទីនោះបានទេ លុះត្រាតែមានអព្ភូតហេតុ មែនទេ?
+In 1971 the United Kingdom changed its currency to the decimal system.	នៅឆ្នាំ ១៩៧១ ចក្រភពអង់គ្លេសបានផ្លាស់ប្តូររូបិយប័ណ្ណរបស់គេទៅក្នុងប្រព័ន្ធទសភាគ ។
+Robam kbach boran, or the art of Khmer classical dance, is more than 1,000 years old. It was developed as a prayer in movement for rain and fertility, and a prosperity that this meant for an agricultural society. Dancers who were both men and women were offered to temples where they served as living bridges between heaven and earth. Their dancing bodies carried the prayers of the people up to the gods, and the will of the deities was delivered back through them to the people and the lannd.	របាំក្បាច់បុរាណ ឬសិល្បៈនៃរបាំខ្មែរបុរាណ មានអាយុកាលជាង១០០០ឆ្នាំមកហើយ។ របាំនេះបង្កើតឡើងជារបាំសម្ដែងដើម្បីបន់ស្រន់ សម្រាប់សុំទឹកភ្លៀង និងជីជាតិ ព្រមទាំងភាពរុងរឿង ចំពោះវិស័យកសិកម្ម។ អ្នករបាំទាំងប្រុសទាំងស្រី បានបូជាថ្វាយដល់ប្រាង្គប្រាសាទ ដែលជាកន្លែងពួកគេជឿថាជាស្ពានរវាង ឋានសួគ៌ និងឋានមនុស្សលោក។ រាងកាយរាំរបស់ពួកគេពាំនាំយក ពាក្យបន់ស្រន់របស់មនុស្សទៅកាន់ទេវតា និងការប្រទាន់ពរពីទេវតា បានបញ្ជូនមកតាមពួកគេ មកកាន់ប្រជារាស្រ្ត និងដែនដីរបស់ពួកគេ។ ក្បាច់ពត់រាំនៅក្នុងរបាំខ្មែរ មានច្រើនបែបណាស់។
+As you can see then, Khmer classical dance is a transformation of nature, of both the physical world around us and of our own internal universe. We have four primary hand gestures that we use. Can we do them together? Yeah? OK.	ទាំងរបស់ដែលមានរូបរាងជុំវិញយើង និងវិញ្ញាណដែលនៅខាងក្នុងខ្លួនរបស់យើង ។ យើងមានកាយវិការដៃ៤សំខាន់ៗ ដែលយើងប្រើ។ តើយើងអាចធ្វើតាមទាំងអស់គ្នាបានទេ? បាន? ល្អ នេះគឺជាដើមឈើ។ ដើមឈើនេះនឹងដុះឡើង
+This is a tree. That tree will grow, and then it will have leaves. After it has leaves, it'll have flowers, and after it has flowers, it'll have fruit. That fruit will drop and a new tree will grow. And in those four gestures is the cycle of life.	ហើយវានឹងមានស្លឹកជាច្រើន បន្ទាប់ពីមានស្លឹកហើយ វានឹងចេញជាផ្កា បន្ទាប់ពីចេញផ្កា វានឹងបង្កើតជាផ្លែ។ ផ្លែនោះនឹងទុំជ្រុះ ហើយដើមឈើថ្មីនឹងដុះឡើង។ នៅក្នុងកាយវិការដៃទាំង៤នោះ តំណាងឲ្យដំណើរវិវត្ដន៍នៃជីវិត ។ កាយវិការដៃទាំង៤ នេះត្រូវបានប្រើ ដើម្បីបង្កើតភាសាថ្មីស្រឡះមួយសម្រាប់ អ្នករបាំក្នុងការបញ្ចេញពីអារម្មណ៍ពួកគេ។
+These four gestures are then used to create a whole entire language with which dancers express themselves. So for example, I can say, "I." "I." In dance that would be ... "I." Or I can say ... "Hey you, come here, come here." In dance ... "Come here," or, "Go, go.	"ឧទាហរណ៍ ខ្ញុំអាចនិយាយថា "ខ្ញុំ" "ខ្ញុំ"។ ក្នុងរបាំវាទៅជា... "ខ្ញុំ" ឬខ្ញុំអាចនិយាយថា... "នែ! លោក អញ្ជើញមកនេះ មកនេះ"។ ក្នុងរបាំ ... "មកនេះ" ឬ,"ចេញទៅ ទៅ!" (សម្លេងសើច) "ទៅ"។
+"Go." And everything from ... love ... to sadness,--	សេចក្ដីស្រលាញ់ ... ទៅជាទុក្ខសោក ទៅ -- (ទម្លាក់ជើងខ្លាំង) កំហឹង
+anger can be expressed through the dance as well.	គេមានសិល្បៈសិល្ប៍ជាក់លាក់មួយ ដែលគ្រប់របស់ដែលត្រូវបានច្រោះ ផ្លាស់ប្ដូរ ​និងដាក់បញ្ចូលគ្នា
+There's a certain magic in the way that things are filtered, transformed and put together to create limitless possibilities in art. The Khmer word for art, silapak, in fact, at its root, means "magic." The artist -- the silapakar, or the silapakarani, then, is nothing short of a magician. I am very proud to say that I belong to a long line of magicians, from my teacher, Sophiline Cheam Shapiro, to her teachers who were stars in the royal palace, to the ancient dancers of Angkor and to the primal villagers from which the art form originally took life.	ដើម្បីបង្កើតសមត្ថភាពដ៏អស្ចារ្យ គ្មានដែនកំណត់ក្នុងសិល្ប:។ ពាក្យខ្មែរសសម្រាប់សិល្ប:គឺ សិល្បៈ តាមការពិត ឫសគល់នៃពាក្យនេះគឺ មានន័យថា"សិល្ប៍"។ អ្នកសិល្បៈ -- សិល្បករ ឬសិល្បការិនី កាលពីមុន គឺពោរពេញដោយសិល្សសាសន៍ (អ្នកចេះសិល្ប៍)។ ខ្ញុំពិតជាមានមោទនភាពណាស់ក្នុងការនិយាយថា ខ្ញុំជាខ្សែស្រឡាយដ៏វែងនៃអ្នកចេះសិល្ប៏សាសន៍ តាំងពីអ្នកគ្រូរបស់ខ្ញុំ គឺ សូភីលីន ឈៀម សាភីរ៉ូ រហូតដល់គ្រូរបស់គាត់ទៀត ដែលគាត់ជាអតីតតារាសម្ដែងនៅឯព្រះរាជវាំង ទៅដល់អ្នករបាំបុរាណកាលពីសម័យអង្គរ និងរហូតដល់អ្នកភូមិដំបូង ដែលជាដើមកំណើតនៃសិល្បៈ។
+That said, our cherished heritage was once almost completely destroyed. If you are wearing glasses, please stand up. If you speak more than one language, please stand up. If you have light skin, please stand up. Your glasses meant that you could afford health care. That second or third language you spoke indicated your elite education. Your light skin meant you didn't have to work beneath the sun. Under the Khmer Rouge, who took over Cambodia from 1975 to 1979, we would all be dead now, targeted because of our assumed privilege. You see, the Khmer Rouge looked to Cambodia, and they saw centuries of rigid inequality. The king and the few elites around him had all the pleasures and comforts of the world while the mass majority suffered from backbreaking labor and harsh poverty. You don't need a history book to see that this is true.	យ៉ាងណាមិញ កេរ្ដ៍ដំណែលរបស់យើងជិតនឹងត្រូវបាន បំផ្លាញទាំងស្រុង។ ប្រសិនបើមានអ្នកណាពាក់វ៉ែនតា សូមមេត្តាក្រោកឈរឡើង។ ប្រសិនបើអ្នកចេះនិយាយ លើសពីមួយភាសា សូមមេត្តាក្រោកឈរឡើង។ ប្រសិនបើអ្នកមានសម្បុរស សូមមេត្តាក្រោកឈរឡើង។ វ៉ែនតារបស់អ្នកបញ្ជាក់ថា អ្នកអាចមាន លទ្ធភាពបង់ថ្លៃសេវាពិនិត្យសុខភាព។ ភាសាទី២ ឬទី៣ដែលអ្នកអាចនិយាយបាន បង្ហាញពីការសិក្សាដ៏ខ្ពង់ខ្ពស់របស់អ្នក។ សម្បុរសរបស់អ្នកមានន័យថា អ្នកមិនចាំបាច់ធ្វើការក្រោមពន្លឺថ្ងែនោះឡើយ។ នៅក្រោមរបបខ្មែរក្រហម ដែលបានកាន់កាប់ប្រទេសកម្ពុជា ពីឆ្នាំ ១៩៧៥ ដល់ ១៩៧៩ បើគិតទៅ​ ពួកយើងអាចនឹងស្លាប់បាត់ទៅហើយ ព្រោះយើងជាមុខសញ្ញារបស់គេ ដោយសារតែអភ័យឯកសិទ្ធិរបស់យើង។ ដូចដែលឃើញហើយ ពួកខ្មែរក្រហមមើលមកប្រទេសកម្ពុជា ហើយពួកគេបានមើលឃើញភាពមិនស្មើគ្នា កើតមានជាច្រើនសតវត្ស។ ស្តេច និងពួកឥស្សរជននៅជុំវិញគាត់ មានភាពសប្បាយរីករាយ និងការសោយសុខក្នុងជីវិតរបស់ពួកគេ ខណៈពេលដែលប្រជាជនជាច្រើន ទទួលរងទុក្ខពីការធ្វើពលកម្មឥតឈប់ឈរ និងភាពក្រីក្រ ទុរភឹក្សអត់ឃ្លាន។ អ្នកមិនចាំបាច់អានសៀវភៅប្រវត្តិសាស្រ្ត ដើម្បីយល់ដឹងពីការពិតនោះទេ។
+The Khmer word for "I," for "me," is khnhom. This very same word can also mean "slave" and dancers were in fact known as knhom preah robam, or "slaves of the sacred dance." The Khmer Rouge sought to end slavery in Cambodia, yet somehow they turned everyone into slaves to do it. They became the oppression that they sought to end. They evacuated the capital and forced people into labor camps. They tore families apart and brainwashed children against their own parents. Everywhere, people were dying and being killed, losing their lives from disease, overwork, execution and starvation. The result of this is that an entire third of Cambodia's population was lost in less than four years, and in that number were 90 percent of Khmer dance artists. In other words, nine out of 10 visions for the tradition and future were lost.	ពាក្យខ្មែរសម្រាប់ "I" សម្រាប់ "me" គឺខ្ញុំ។ ហើយពាក្យនេះក៏អាចមានន័យថា "ទាសករ" បានដែរ ហើយអ្នករបាំត្រូវបានគេហៅថា ជាខ្ញុំព្រះរបាំ ឬ "ទាសករនៃរបាំអស្ចារ្យ"។ ខ្មែរក្រហមបានព្យាយាមលប់បំបាត់ ភាពជាទាសករនៅប្រទេសកម្ពុជា ផ្ទុយទៅវិញ ពួកគេធ្វើឲ្យប្រជាជនទាំងអស់ ក្លាយទៅជាទាសករដើម្បីបំបាត់ទាសភាព។ ពួកគេក្លាយជាអ្នកជិះជាន់ប្រជារាស្រ្ដ ពេលដែលពួកគេចង់លប់បំបាត់ទាសភាពទៅវិញ។ ពួកគេជម្លៀសប្រជាជនចេញពីរាជធានី(ភ្នំពេញ) និងបង្ខំមនុស្សឱ្យទៅជំរំពលករ។ ពួកគេបំបែកបំបាក់គ្រួសារជាច្រើន និងបណ្ដុះផ្នត់គំនិតកុមារឲ្យ ប្រឆាំងនឹងឪពុកម្តាយរបស់ពួកគេ។ គ្រប់ទីកន្លែងទាំងអស់ ប្រជាជនស្លាប់ និងត្រូវបានគេសម្លាប់ បាត់បង់ជីវិតដោយសារជម្ងឺ ធ្វើការលើសកម្លាំង ការសម្លាប់(ប្រហារជីវិត) និងភាពអត់ឃ្លាន។ លទ្ធផលនៃសកម្មភាពទាំងនេះគឺ ប្រជាជនមួយភាគបីត្រូវបានបាត់បង់ជីវិត ត្រឹមតែរយៈពេលតិចជាង ៤ឆ្នាំប៉ុណ្ណោះ ហើយក្នុងនោះ ៩០ ភាគរយ គឺជាសិល្បកររបាំខ្មែរ។ មានន័យថា ៩ ភាគ ១០ នៃទស្សនៈវិស័យសម្រាប់ប្រពៃណី និងអនាគត ត្រូវបានបាត់បង់។
+Thankfully, however, it was my teacher's teachers, Chea Samy, Soth Sam On and Chheng Phon, who would lead the revival of the art form from the ashes of war and genocide: one student, one gesture, one dance at a time. They wrote the love, magic, beauty, history and philosophy of our lineage into the bodies of the next generation.	ប៉ុន្ដែ ជាភ័ព្វសំណាងល្អ គ្រូរបស់គ្រូរបស់ខ្ញុំ ជា សាមី  សុត សំអុន និង ឆេង ភុន ដែលបានដឹកនាំ និងចងក្រង វិស័យសិល្បៈឲ្យមានជីវិតសារជាថ្មី ពីផេះនៃសង្គ្រាម និងរបបប្រល័យពូជសាសន៍ ចាប់ផ្ដើមពី សិស្សម្នាក់ កាយវិការមួយ ក្បាច់រាំម្ដងមួយៗ ។ ពួកគេបានសរសេរពីសេចក្តីស្រឡាញ់ សិល្ប៏សាសន៍ សម្រស់ ប្រវត្តិសាស្រ្ត និងទស្សនវិជ្ជា នៃពូជពង្សវង្សត្រកូលរបស់យើង ចូលទៅក្នុងខ្លួនអ្នកជំនាន់ក្រោយ។
+Nearly 40 years later, Khmer classical dance has been revived to new heights. Yet somehow it still exists in a vulnerable environment. The disastrous effects of war still haunt Khmer people today. It is written in our bodies, manifested in a genetic passage of PTSD and in families facing cyclical poverty and immense cultural rifts and language barriers.	រយៈ ៤០ ឆ្នាំក្រោយមក របាំបុរាណខ្មែរត្រូវបានរស់រានមានជីវិតឡើងវិញ ទៅកាន់កម្រិតមួយថ្មី ។ ប៉ុន្ដែ របាំបុរាណនៅតែស្ថិតក្នុង មជ្ឈដ្ឋានគ្រោះថ្នាក់ដដែល ។ មហន្តរាយនៃសង្គ្រាមនៅតែដិតដាមក្នុង ចិត្តប្រជាជនខ្មែររហូតដល់សព្វថ្ងៃនេះ។ វាត្រូវបានចារជាប់នៅក្នុងរាងកាយរបស់យើង បង្ហាញតាមការចម្លងហ្សែននៃ PTSD (ជំងឺស្ត្រេសក្រោយទុក្ខវេទនា) និងក្នុងគ្រួសារដែលប្រឈមនឹង ភាពក្រីក្រដ៏យូរអង្វែង និងវប្បធម៌ដែលបែកបាក់យ៉ាងសម្បើម ព្រមទាំងឧបសគ្គភាសាផងដែរនោះ។
+Yet beauty is a most resilient thing. Beauty has this ability to grow anywhere and everywhere at any time. Beauty is what connects people through time and place. Beauty is a liberation from suffering. As Khmer artists work to revive our culture and country, we find that there are many paths in which to move forward into the future. And in a tradition where we often don't know the dancer's names, who they were, what their lives were like, what they felt, let me propose that we move forward honestly and openly from "khnhom." Khnhom not as in slave, but as in conscious service. Khnhom: "I," "me," "flowering.	"ប៉ុន្ដែភាពស្រស់ស្អាតគឺជាភាពរឹងមាំបំផុត។ ភាពស្រស់ស្អាតមានសមត្ថភាព ក្នុងការដុះលូតលាស់គ្រប់ទីកន្លែង នៅគ្រប់ពេលវេលា។ ភាពស្រស់ស្អាត គឺជាអ្វីដែលផ្សារភ្ជាប់មនុស្ស ទៅនឹងពេលវេលា និងទីកន្លែង។ ភាពស្រស់ស្អាត គឺជាការរំដោះពីភាពរងទុក្ខ។ នៅពេលសិល្បករខ្មែរព្យាយាមស្តារ ឡើងវិញនូវវប្បធម៌ និងប្រទេសរបស់យើង យើងរកឃើញថា មានផ្លូវជាច្រើន ដើម្បីឈានទៅរកអនាគត។ ហើយក្នុងប្រពៃណីមួយដែលយើង មិនបានស្គាល់ឈ្មោះអ្នករបាំផង ថាពួកគេជានរណា ថាតើជីវិតរបស់ពួកគេមានទិដ្ធភាពយ៉ាងណា ថាតើពួកគេមានអារម្មណ៍ដូចម្តេច ខ្ញុំនឹងបង្ហាញថា យើងឈានទៅមុខដោយស្មោះត្រង់ និងដោយបើកចំហចេញពីពាក្យ "ខ្ញុំ" ។ ខ្ញុំ មិនមែនមានន័យថា ជាទាសករទេ ប៉ុន្ដែជាអ្នកបម្រើប្រកបដោយស្មារតីរឹងមាំ ខ្ញុំ "I" "me" "ចេញផ្កា" ។
+My name is Prumsodun Ok. I am Khmer, and I am American. I am the child of refugees, a creator, a healer, and a builder of bridges. I am my teacher's first male student in a tradition understood by many as female, and I founded Cambodia's first gay dance company. I am the incarnation of the beauty, dreams and power of those who came before me. The convergence of past, present and future, and of individual and collective.	ខ្ញុំមានឈ្មោះថា ឱក ព្រហ្មសុដន្ដ ខ្ញុំជាជនជាតិខ្មែរ ហើយខ្ញុំជាជនជាតិអាមេរិក។ ខ្ញុំជាកូនរបស់ជនភៀសខ្លួន ជាអ្នកបង្កើត ជាអ្នកព្យាបាល និង អ្នកសាងសង់ស្ពាន។ ខ្ញុំជាសិស្សប្រុសដំបូងរបស់គ្រូខ្ញុំ នៅក្នុងប្រពៃណីមួយដែលគេ ស្គាល់ថា មានតែមនុស្សស្រីតែប៉ុណ្ណោះ ហើយខ្ញុំបានបង្កើតនូវក្រុមរាំរបាំភេទទីបី របស់កម្ពុជា។ ខ្ញុំតំណាងឲ្យ ភាតរភាពនៃភាពស្រស់ស្អាត, ក្តីសុបិន្ត និង អំណាច ដល់អ្នកដែលនៅចំពោះមុខខ្ញុំ។ ភាពរួមគ្នានៃអតីតកាល បច្ចុប្បន្ន និងអនាគត និងភាពរួមគ្នានៃបុគ្គល និងសមូហភាព។ ខ្ញុំសូមបង្ហាញនូវតួនាទីដ៏មានវ័យចំណាស់
+Let me then play that ancient and ageless role of the artist as messenger, by sharing the words of Chheng Phon "A garden with only one type of flower, or flowers of only one color, is no good." This is a reminder that our strength, growth, survival and very existence, lies in diversity. It is, however, a message of courage as well. For a flower does not ask for anyone's permission to bloom. It was born to offer itself to the world. Fearless love is its nature.	របស់សិល្បករជាសារ តាមរយៈពាក្យពេចន៍របស់ ឆេង ភុន "សួនច្បារដែលមានតែផ្កាមួយប្រភេទ ឬផ្កាមានតែមួយពណ៌ គឺមិនល្អទេ "។ នេះគឺជាការរំលឹកមួយដល់កម្លាំងរបស់យើង ការលូតលាស់ ការរស់រានមានជីវិត និងអត្ថិភាព(ភាពម្ចាស់ដើម) ស្ថិតនៅក្នុងភាពចម្រុះជាច្រើន ហើយ វាគឺ ជាសារនៃភាពក្លាហានផងដែរ។ ព្រោះផ្កាមិនចាំបាច់សុំការអនុញ្ញាតពី នរណាម្នាក់ដើម្បីរីកនោះទេ។ វាបានកើតមកដើម្បីថ្វាយខ្លួន ដល់ពិភពលោកទាំងមូល។ សេចក្ដីស្រឡាញ់ដែលឥតខ្លាចក្រែង គឺធម្មជាតិរបស់វា។ សូមអរគុណ។
+For over a decade, I have studied young people that have been pushed out of school, so called "dropouts." As they end up failed by the education system, they're on the streets where they're vulnerable to violence, police harassment, police brutality and incarceration. I follow these young people for years at a time, across institutional settings, to try to understand what some of us call the "school-to-prison pipeline."		ជាងមួយទស្សវត្សកន្លងមកហើយ ខ្ញុំបានសិក្សាពីក្មេងៗត្រូវគេបណ្តេញចេញពីសាលា ឬហៅថាក្មេងបោះបង់ការសិក្សា ទីបំផុតពួកគេបរាជ័យដោយសារប្រព័ន្ធអប់រំ ក្លាយជាក្មេងតាមចិញ្ចើមផ្លូវ រងអំពើហឹង្សា ការបំពានពីប៉ូលីស ការធ្វើបាបយ៉ាងឃោរឃៅ និងការចាប់ដាក់គុក ខ្ញុំតាមដានក្មេងទាំងនេះជាច្រើនឆ្នាំ នៅតាមស្ថាប័នពាក់ព័ន្ធនានា ដើម្បីស្វែងយល់ពីអ្វីដែលយើងហៅថា “រុញចេញពីសាលា ចូលគុក”
+When you look at a picture like this, of young people who are in my study ... you might see trouble. I mean one of the boys has a bottle of liquor in his hand, he's 14 years old and it's a school day. Other people, when they see this picture, might see gangs, thugs, delinquents -- criminals. But I see it different. I see these young people through a perspective that looks at the assets that they bring to the education system. So will you join me in changing the way we label young people from "at-risk" to "at-promise?"	ពេលអ្នកមើលឃើញទិដ្ឋភាពបែបនេះ របស់ក្មេងៗក្នុងការស្រាវជ្រាវរបស់ខ្ញុំ អ្នកអាចនឹងឃើញបញ្ហា ក្មេងប្រុសម្នាក់​មានកាន់ដបស្រាក្នុងដៃ គាត់អាយុប្រមាណ១៤ឆ្នាំ ហើយថ្ងៃនោះជាថ្ងៃសិក្សា អ្នកដទៃនៅពេលឃើញទិដ្ឋភាពបែបហ្នឹង មើលឃើញជាក្រុមក្មេងពាល ក្រុមវ៉ៃតប់ ក្រុមឧក្រិដ្ឋជន ប៉ុន្តែខ្ញុំឃើញរូបភាពខុសពីហ្នឹង ខ្ញុំឃើញក្មេងៗទាំងនេះតាមរបៀបមួយ ដែលពួកគេអាចនាំនូវតំលៃដល់ប្រព័ន្ធអប់រំ តើអ្នកនឹងចូលរួមជាមួយខ្ញុំប្តូររបៀបយើងដាក់ងារក្មេងៗ ពី “បង្កគ្រោះថ្នាក់” ទៅ “ពេញដោយសក្ដានុពល” ?
+How do I know that these young people have the potential and the promise to change? I know this because I am one of them. You see, I grew up in dire poverty in the inner city, without a father -- he abandoned me before I was even born. We were on welfare, sometimes homeless, many times hungry. By the time I was 15 years old, I had been incarcerated in juvy three times for three felonies. My best friend had already been killed. And soon after, while I'm standing next to my uncle, he gets shot. And as I'm waiting for the ambulance to arrive for over an hour ... he bleeds to death on the street. I had lost faith and hope in the world, and I had given up on the system because the system had failed me. I had nothing to offer and no one had anything to offer me. I was fatalistic. I didn't even think I could make it to my 18th birthday.	តើខ្ញុំដឹងដោយរបៀបណាថាក្មេងៗទាំងនេះ មានសក្តានុពល និងតាំងចិត្តផ្លាស់ប្តូរ? ខ្ញុំដឹងព្រោះខ្ញុំជាម្នាក់ក្នុងចំណោមនោះ ដឹងទេ ខ្ញុំធំឡើងក្នុងទីក្រុងជាមួយភាពក្រីក្រ ដោយគ្មានឪពុក គាត់បោះបង់ខ្ញុំតាំងពីខ្ញុំមិនទាន់កើតម្ល៉េះ យើងរស់នៅដោយពិឹងលើជំនួយ ពេលខ្លះគ្មានជំរក អត់ឃ្លានជាច្រើនលើកច្រើនគ្រា ពេលខ្ញុំអាយុ១៥ឆ្នាំ ខ្ញុំត្រូវបានគេចាប់ដាក់ឃុំ៣ដង ពីបទល្មើស៣ មិត្តល្អបំផុតរបស់ខ្ញុំត្រូវបានគេសំលាប់ ហើយមិនយូរប៉ុន្មាន ខណៈដែលខ្ញុំកំពុងឈរក្បែរពូខ្ញុំ គាត់ត្រូវបានគេបាញ់ ខណះកំពុងរង់ចាំរថយន្តសង្គ្រោះ ជាងមួយម៉ោង គាត់ហូរឈាមច្រើន ស្លាប់លើចញ្ចើមផ្លូវ ខ្ញុំបានបាត់បង់ជំនឿចិត្ត និងក្តីសង្ឃឹមក្នុងលោក ហើយខ្ញុំឈប់ជឿអ្វីទាំងអស់ ព្រោះសង្គមនេះធ្វើអោយខ្ញុំបរាជ័យ។ ខ្ញុំគ្មានអ្វីផ្តល់អោយនរណាម្នាក់ ហើយគ្មាននរណាម្នាក់ផ្តល់អ្វីៗអោយខ្ញុំដែរ។ ខ្ញុំជឿថានេះជាវាសនារបស់ខ្ញុំ ខ្ញុំគិតថាខ្ញុំនឹងគ្មានជីវិតរស់ដល់អាយុ១៨ឆ្នាំផង
+The reason I'm here today is because a teacher that cared reached out and managed to tap into my soul. This teacher, Ms. Russ ... she was the kind of teacher that was always in your business.	មូលហេតុខ្ញុំមកទីនេះថ្ងៃនេះ គឺព្រោះតែគ្រូបង្រៀនម្នាក់ដែលយកចិត្តទុកដាក់នឹងខ្ញុំ និងជួយដាស់សតិខ្ញុំរហូតមក គ្រូបង្រៀនម្នាក់នេះ គឺអ្នកស្រី រូស គាត់គឺជាគ្រូម្នាក់ដែលចូលចិត្តឈឺឆ្អាលរឿងកូនសិស្ស
+She was the kind of teacher that was like, "Victor, I'm here for you whenever you're ready."	គាត់គឺជាគ្រូដែលតែងតែនិយាយថា៖ វិចទ័រ ខ្ញុំនៅទីនេះ ពេលណាទើបអ្នកត្រូវការខ្ញុំ...
+I wasn't ready. But she understood one basic principle about young people like me. We're like oysters. We're only going to open up when we're ready, and if you're not there when we're ready, we're going to clam back up. Ms. Russ was there for me. She was culturally relevant, she respected my community, my people, my family. I told her a story about my Uncle Ruben. He would take me to work with him because I was broke, and he knew I needed some money. He collected glass bottles for a living. Four in the morning on a school day, we'd throw the glass bottles in the back of his van, and the bottles would break. And my hands and arms would start to bleed and my tennis shoes and pants would get all bloody. And I was terrified and in pain, and I would stop working. And my uncle, he would look me in the eyes and he would say to me, "Mijo, estamos buscando vida." "We're searching for a better life, we're trying to make something out of nothing."	តែខ្ញុំមិនទាន់ត្រៀមខ្លួនរួច ប៉ុន្តែគាត់យល់ពីគោលការណ៍គ្រឹះមួយអំពីក្មេងដូចខ្ញុំ ពួកយើងគឺដូចជាអ័យស្ទ័រអញ្ចឹង យើងបើកគំរបឡើង នៅពេលយើងត្រៀមខ្លួនរួចប៉ុណ្ណោះ ហើយប្រសិនបើអ្នកមិននៅទីនោះក្បែរយើងទេ យើងនឹងបិទគំរបរបស់យើងវិញភ្លាម អ្នកស្រី រូស នៅទីនោះក្បែរខ្ញុំ គាត់ដាក់ខ្ឡួនចូលជិតពួកយើង គាត់គោរពសហគមន៍ខ្ញុំ សាច់ញាតិខ្ញុំ និងក្រុមគ្រួសារខ្ញុំ ខ្ញុំប្រាប់គាត់ពីរឿងលោកពូ​ រ៉ូបេន គាត់យកខ្ញុំទៅធ្វើការជាមួយគាត់ព្រោះខ្ញុំគ្មានលុយ ហើយគាត់ដឹងច្បាស់ថាខ្ញុំត្រូវការលុយចាយ គាត់រើសអេតចាយសំរាប់ចិញ្ចឹមជីវិត ម៉ោង៤ភ្លឺមុនទៅសាលា ខ្ញុំជញ្ជូនសំបកដបបោះចូលឡានគាត់ ធ្វើអោយសំបកដបបែក មុតដៃហូរឈាម ជោគខោនិងស្បែកជើងកីឡារបស់ខ្ញុំ ខ្ញុំតក់ស្លុត ឈឺយ៉ាងខ្លាំង ក៏សំរាក ពូសម្លឹងមុខខ្ញុំ ហើយគាត់និយាយថា "Mijo, estamos buscando vida." "ពួកយើងកំពុងស្វែងរកជីវិតដ៏ប្រសើរមួយ យើងកំពុងព្យាយាមបងើ្កតអ្វីៗ ពីបាតដៃទទេ"។
+Ms. Russ listened to my story, welcomed it into the classroom and said, "Victor, this is your power. This is your potential. Your family, your culture, your community have taught you a hard-work ethic and you will use it to empower yourself in the academic world so you can come back and empower your community."	អ្នកស្រី រូស ស្តាប់រឿងខ្ញុំ ចង់អោយខ្ញុំនិយាយរឿងនេះក្នុងថ្នាក់ ហើយគាត់​និយាយថា “វិចទ័រ នេះគឺជាអំណាចរបស់អ្នក នេះជាសក្កានុពលរបស់អ្នក គ្រួសារ វប្បធម៍ សហគមន៍ បានបង្រៀននិងលុតដំអ្នកអោយចេះតស៊ូ អ្នកនឹងប្រើវាជាប្រយោជន៍ក្នុងការរៀនសូត្រ ដើម្បីអាចត្រឡប់មកជួយអភិវឌ្ឍន៍សហគមន៍របស់អ្នក។”
+With Ms. Russ's help, I ended up returning to school. I even finished my credits on time and graduated with my class.	ជាមួយការជួយរបស់អ្នកស្រី រូស ខ្ញុំត្រឡប់មកចូលរៀនវិញ។ លទ្ធផលរៀនក៏បានល្អ ហើយខ្ញុំបានបញ្ចប់ការសិក្សាដូចគេឯង។
+But Ms. Russ said to me right before graduation, "Victor, I'm so proud of you. I knew you could do it. Now it's time to go to college."	ប៉ុន្តែអ្នកស្រី រូស និយាយមកខ្ញុំមុនថ្ងៃបិទវគ្គថា វិចទ័រអ្នកគ្រូមានមោទនភាពចំពោះកូនណាស់ អ្នកគ្រូដឹងច្បាស់ថាកូនអាចធ្វើបាន ឥឡូវដល់ពេលចូលរៀនមហាវិទ្យាល័យហើយ
+College, me? Man, what is this teacher smoking thinking I'm going to college? I applied with the mentors and support she provided, got a letter of acceptance, and one of the paragraphs read, "You've been admitted under probationary status." I said, "Probation? I'm already on probation, that don't matter?"	មហាវិទ្យាល័យ? ខ្ញុំហ្នឹង? អូយ អ្នកគ្រូនិយាយស្អីហ្នឹង ខ្ញុំហ្នឹងចូលរៀនមហាវិទ្យាល័យ? ក្រោយមកខ្ញុំបានដាក់ពាក្យចូលរៀន ដោយមានការណែនាំ និងជ្រំុជ្រែងពីគាត់ ខ្ញុំទទួលបានលិខិតអនុញ្ញាតិអោយចូលរៀន ប៉ុន្តែឋិតក្រោមលក្ខខ័ណ្ឌមួយសរសេរថា "អ្នកត្រូវបានអនុញ្ញាតិអោយចូលរៀនសាកល្បងសិន។" “ស្អីគេ... សាកល្បងសិន”? ខ្ញុំកំពុងតែសាកល្បងស្រាប់ហើយហ្នឹង គ្មានបញ្ហា?"
+It was academic probation, not criminal probation. But what do teachers like Ms. Russ do to succeed with young people like the ones I study? I propose three strategies. The first: let's get rid of our deficit perspective in education. "These people come from a culture of violence, a culture of poverty. These people are at-risk; these people are truant. These people are empty containers for us to fill with knowledge. They have the problems, we have the solutions." Number two. Let's value the stories that young people bring to the schoolhouse. Their stories of overcoming insurmountable odds are so powerful. And I know you know some of these stories. These very same stories and experiences already have grit, character and resilience in them. So let's help young people refine those stories. Let's help them be proud of who they are, because our education system welcomes their families, their cultures, their communities and the skill set they've learned to survive. And of course the third strategy being the most important: resources. We have to provide adequate resources to young people. Grit alone isn't going to cut it. You can sit there and tell me all you want, "Hey man, pick yourself up by the bootstraps." But if I was born without any straps on my boots --	វាគឺការសាកល្បងផ្នែកអប់រំ មិនមែនផ្នែកព្រហ្មទណ្ឌទេ។ តើគ្រូដូចអ្នកស្រីរូស បានធ្វើអ្វីខ្លះទើបបានជោគជ័យនឹងក្មេងៗ ដូចក្មេងៗឋិតក្នុងការស្រាវជ្រាវរបស់ខ្ញុំ? ខ្ញុំសូមស្នើយុទ្ធសាស្រ្តចំនួនបី ទីមួយ៖ បោះចោលទស្សនៈអន់ថយក្នុងវិស័យអប់រំ ក្មេងទាំងនេះមកពីកន្លែងដែលប្រើហឹង្សា ក្រុមអ្នកក្រីក្រ ក្មេងទាំងនេះអាចបង្កគ្រោះថ្នាក់ ជាសិស្សគេចសាលា។ ក្មេងទាំងនេះបង្រៀនយ៉ាងណាក៏មិនចេះដែរ។ បើពួកគេមានបញ្ហា យើងមានដំណោះស្រាយ” ទីពីរ៖ សូមអោយតំលៃរឿងរ៉ាវ ដែលពួកគេនាំមកសាលា។ រឿងរ៉ាវជូរច៉ត់ពួកគេបានឆ្លងកាត់គឺអស្ចារ្យខ្លាំងណាស់។ ហើយខ្ញុំដឹងថា អ្នកដឹងរឿងទាំងនេះខ្លះដែរ។ រឿងរ៉ាវ​ និងបទពិសោធន៍ជូរច៉ត់ទាំងនេះ បង្ហាញនូវភាពរឹងមាំ ចរឹតលក្ខ​ណៈ និងភាពអត់ធន់។ តោះជួយក្មេងៗធ្វើអោយរឿងរបស់គេកាន់តែប្រណិត។ លើកទឹកចិត្តពួកគេអោយមានមោទនភាពចំពោះខ្លួនឯង ពីព្រោះប្រព័ន្ធអប់រំរបស់យើងស្វាគមន៍ ក្រុមគ្រួសារ វប្បធម៌ សហគមន៍របស់គេ និងជំនាញដែលគេបានរៀនដើម្បីរស់។ យ៉ាងណាមិញ យុទ្ធសាស្រ្តទីបីដែលជាយុទ្ធសាស្រ្តសំខាន់បំផុត គឺធនធានទំនុបបំរុង។ យើងត្រូវផ្តល់ធនធានគ្រប់គ្រាន់ដល់ពួកគេ ភាពក្លាហានតែមួយមុខមិនគ្រប់គ្រាន់ទេ អ្នកអាចអង្គុយចាំមើលហើយប្រាប់ខ្ញុំថា៖ "នែប្អូនប្រុស រៀនចេះជួយខ្លួនឯងនឹងអ្វីដែលប្អូនមាន។" ប៉ុន្តែតើខ្ញុំជួយខ្លួនឯងយ៉ាងម៉េច បើកើតមកគ្មានអ្វីផងហ្នឹង?
+How am I supposed to pick myself up?	ជួយប្រាប់ផង តើខ្ញុំគួរជួយខ្លួនឯងដោយរបៀបណា?
+Job training, mentoring, counseling ... Teaching young people to learn from their mistakes instead of criminalizing them, and dragging them out of their classrooms like animals. How about this? I propose that we implement restorative justice in every high school in America.	ការបណ្តុះបណ្តាលការងារ ការអប់រំណែនាំ ការប្រឹក្សាយោបល់។ល។ គឺបង្រៀនក្មេងៗអោយចេះរៀនពីកំហុសរបស់ខ្លួន ជាជាងការដាក់ទណ្ឌកម្មពួកគេ និងបណ្តេញចេញពីសាលាដូចសត្វធាតុ។ ចុះបើធ្វើដូច្នេះវិញតើអ្នកយល់យ៉ាងណាដែរ? ខ្ញុំសំណូមពរអោយមានប្រព័ន្ធយុត្តិធម៌ ស្តារសប្បទា នៅគ្រប់វិទ្យាល័យទាំងអស់ក្នុងសហរដ្ឋអាមេរិក។
+So we went out to test these ideas in the community of Watts in LA with 40 young people that had been pushed out of school. William was one of them. William was the kind of kid that had been given every label. He had dropped out, he was a gang member, a criminal. And when we met him he was very resistant. But I remember what Ms. Russ used to say. "Hey, I'm here for you whenever you're ready."	យើងបានធ្វើតេស្តគំនិតទាំងនេះក្នុងសហគមន៍វ៉តក្នុងទីក្រុងអីលអេ ជាមួយក្មេងៗចំនួន៤០នាក់ដែលបានបណ្តេញចេញពីសាលា វីលៀមគឺជាក្មេងប្រុសម្នាក់ចំណោមនោះ។ គាត់ត្រូវបានគេដាក់ងារមិនល្អជាច្រើន។ គាត់បោះបង់ការសិក្សា គាត់ជាសមាជិកក្មេងពាល ជាឧក្រិដ្ឋជន។ ពេលពួកយើងជួបគាត់ គាត់បានបដិសេធន៍យើង។ ប៉ុន្តែខ្ញុំចាំពាក្យអ្នកស្រី រូស ធ្លាប់និយាយថា “ហេ ខ្ញុំនៅទីនេះចាំជួយអ្នកជានិច្ច ពេលអ្នកត្រូវការសូមមករកខ្ញុំចោះ”។
+This young lady's tears and pain turned into joy and laughter knowing that her community had her back, and William had now learned that he did have a purpose in life: to help to heal the souls of people in his own community. He told us his story. We refined his story to go from being the story of a victim to being the story of a survivor that has overcome adversity. We placed high value on it. William went on to finish high school, get his security guard certificate to become a security guard, and is now working at a local school district.	ក្មេងស្រីនោះបានប្រែពីការស្រក់ទឹកភ្នែកឈឺចាប់ទៅជាញញឹមឡើងវិញ ហើយសំណើចក្នុងក្រុមបន្លឺឡើង ជាសញ្ញាប្រាប់នាងថាសហគមន៍របស់នាងនឹងគាំទ្រនាង ពេលនោះវីលៀមចាប់ផ្តើមយល់ពីគោលបំណងនៃការរស់នៅ គឺដើម្បីជួយមនុស្សក្នុងសហគមន៍របស់គាត់។ គាត់ប្រាប់ពួកយើងពីរឿងរបស់គាត់។ យើងធ្វើអោយរឿងគាត់កាន់តែប្រណិត ពីរឿងគួរអោយអាណិតទៅជារឿងគួរអោយស្ញើចសរសើរ ដែលបានយកឈ្នះស្ថានភាពអាក្រក់បំផុត។ យើងអោយតំលៃខ្ពស់លើរឿងនេះ។ វីលៀមក៏បន្តការសិក្សារហូតបានបញ្ចប់ជាស្ថាពរ និងទទួលបានវិញ្ញាប័នប័ត្របញ្ចប់ការសិក្សាផ្នែកសន្តិសុខ ហើយឥឡូវនេះកំពុងធ្វើការអោយសាលាមួយ។
+Ms. Russ's mantra -- her mantra was always, "when you teach to the heart, the mind will follow." The great writer Khalil Gibran says, "Out of suffering have emerged the greatest souls. The massive characters are seared with scars." I believe that in this education revolution that we're talking about we need to invite the souls of the young people that we work with, and once they're able to refine -- identify their grit, resilience and character that they've already developed -- their academic performance will improve.	ធម៌របស់អ្នកស្រីរូស គឺថា ពេលយើងបង្រៀនដោយបេះដូង ចិត្តក៏នឹងទៅជាមួយដែរ អ្នកនិពន្ធល្បីម្នាក់ ឈ្មោះខាលី ជីប្រាណ ពោលថា៖ “ចាកផុតពីទុក្ខវេទនា កើតមានវិញ្ញាណដ៏អស្ចារ្យ កំពូលវីរជនមានស្នាមពេញខ្លួន"។ ខ្ញុំជឿថាដើម្បីបដិវត្តន៍ប្រព័ន្ធអប់រំដែលយើងកំពុងនិយាយនេះ យើងត្រូវការក្មេងៗមកធ្វើការជាមួយយើង ពេលពួកគេប្រែជាល្អប្រណិត ស្គាល់ពីលក្ខណៈសម្បត្តិ ភាពអត់ធន់ និង ភាពក្លាហានរបស់ខ្លួន ដែលបានអភិវឌ្ឍន៍កន្លងមក ការសិក្សារបស់ពួកគេនឹងប្រសើរទៅតាមហ្នឹងដែរ។
+Let's believe in young people. Let's provide them the right kinds of resources. I'll tell you what my teacher did for me. She believed in me so much that she tricked me into believing in myself.	សូមមានភាពជឿជាក់លើក្មេងៗរបស់យើង។ សូមផ្តល់ធនធានទំនុបបំរុងពួកគេអោយបានត្រឹមត្រូវ។ ខ្ញុំនឹងប្រាប់អ្នកអំពីអ្វីដែលអ្នកគ្រូរបស់ខ្ញុំបានផ្តល់ដល់ខ្ញុំ។ គាត់ជឿជាក់លើខ្ញុំយ៉ាងខ្លាំង ដែលការជឿជាក់របស់គាត់ធ្វើអោយខ្ញុំជឿជាក់លើខ្លួនឯងដែរ។
