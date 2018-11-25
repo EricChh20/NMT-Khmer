@@ -1,4 +1,4 @@
-# NMT-Khmer
+# NMT-Khmer   * On going project- to gain experience with ML
 Goals: Seeking to provide more accurate translation regarding informal texts of Khmer(Cambodian Language). Facebook's Unsupervised model is accurate and improving with formal, or news-type, of posts but not regular talking between friends. 
 
 
@@ -9,3 +9,5 @@ Gathered, cleaned, and prepared limited (Khmer) datasets for effective training 
 
 
 Followed guildlines on Pytorch.org to train the model with CUDA
+
+
